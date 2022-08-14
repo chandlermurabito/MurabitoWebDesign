@@ -95,6 +95,7 @@ ul {
 
 .fine {
     display: flex;
+    padding-left: 16px;
 }
 
 .image {
